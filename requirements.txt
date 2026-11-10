@@ -1,1 +1,5 @@
+# Dependências principais para captura e manipulação de pacotes de rede
+scapy>=2.5.0
 
+# Bibliotecas de suporte e permissões de sistema para Windows
+pywin32>=306
